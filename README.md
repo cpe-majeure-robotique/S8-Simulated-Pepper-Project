@@ -1,3 +1,3 @@
-# Projet-pepper-sim-4A
+# S8 Simulated Pepper Project
 
-Test
+Look at the [wiki](https://github.com/cpe-majeure-robotique/Projet-pepper-sim-4A/wiki) for more informations
