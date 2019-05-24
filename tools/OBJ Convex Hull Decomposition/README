@@ -1,0 +1,19 @@
+# script powered by Raphaël LEBER
+
+# Dependances:
+#-------------
+Ubuntu
+Blender
+
+# Usage:
+#-------
+./vHACD_to_OBJ.sh input_file.obj output_file.obj
+
+# Example:
+#---------
+./vHACD_to_OBJ.sh test.obj test_vhacd.obj
+
+# Note:
+#------
+A file named tmp.wrl is systematically created
+A file named log.txt is systematically created
